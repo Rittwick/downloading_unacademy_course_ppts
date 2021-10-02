@@ -23,5 +23,5 @@ var downloadInterval = setInterval(()=>{
         clearInterval(downloadInterval)
     }
     // the end
-}, 10*1000)
+}, 1*1000)
 
